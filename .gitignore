@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/facts/*.err
+data/wikisource_cache/
+.obsidian/
+site/
+*.log
