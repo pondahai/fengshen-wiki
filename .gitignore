@@ -5,3 +5,6 @@ data/wikisource_cache/
 .obsidian/
 site/
 *.log
+*.flag
+run_extract.cmd
+run_bios.cmd
